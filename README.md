@@ -1,15 +1,15 @@
 
-# 🧠 Smart Health: Summer Research in Diabetes Prediction Using ML
+# Smart Health: Summer Research in Diabetes Prediction Using ML
 
-## 📅 Duration
+## Duration
 **Summer 2025 (1 Month)**
 
-## 🎯 Project Objective
+## Project Objective
 This project demonstrates how supervised machine learning algorithms can be applied to detect early-stage **Type 2 Diabetes (T2D)** using the **UCI diabetes dataset**. It is part of a summer research initiative focused on the intersection of healthcare and AI.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 SmartHealth_SummerML_T2D/
@@ -23,14 +23,14 @@ SmartHealth_SummerML_T2D/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source:** UCI Machine Learning Repository  
 - **Name:** [Early-stage diabetes risk prediction dataset](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset)
 
 ---
 
-## ⚙️ ML Algorithms Used
+## ML Algorithms Used
 
 The following supervised learning models will be implemented and evaluated:
 - Logistic Regression (LR)
@@ -42,7 +42,7 @@ The following supervised learning models will be implemented and evaluated:
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 We will evaluate models based on:
 - Accuracy
@@ -54,7 +54,7 @@ We will evaluate models based on:
 
 ---
 
-## 🔍 Key Tasks
+## Key Tasks
 
 1. Data Loading & Cleaning  
 2. Exploratory Data Analysis (EDA)  
@@ -64,7 +64,7 @@ We will evaluate models based on:
 
 ---
 
-## 💻 Environment
+## Environment
 
 - **Language:** Python 3.x or R
 - **Tools:** Jupyter Notebook, RStudio  
@@ -72,7 +72,7 @@ We will evaluate models based on:
 
 ---
 
-## 📌 Outcomes
+## Outcomes
 
 - Comparative analysis of baseline ML models on diabetes prediction.
 - Insights into how lifestyle/symptom features influence prediction accuracy.
