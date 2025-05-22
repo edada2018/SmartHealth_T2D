@@ -77,3 +77,9 @@ We will evaluate models based on:
 - Comparative analysis of baseline ML models on diabetes prediction.
 - Insights into how lifestyle/symptom features influence prediction accuracy.
 - Final report and visualizations for academic presentation or GitHub showcase.
+
+---
+
+- [Download Model Comparison Summary (PDF)](documents/T2D_Model_Comparison_Summary.pdf)
+
+---
