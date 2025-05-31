@@ -5,7 +5,7 @@
 **Summer 2025 (1 Month)**
 
 ## Project Objective
-This project demonstrates how supervised machine learning algorithms can be applied to detect early-stage **Type 2 Diabetes (T2D)** using the **UCI diabetes dataset**. It is part of a summer research initiative focused on the intersection of healthcare and AI.
+This project focuses on evaluating and comparing the performance of various baseline supervised machine learning models for early-stage detection of Type 2 Diabetes (T2D). Using clinical symptom-based data from the UCI dataset, we aim to assess the predictive power of six common algorithms in identifying T2D risk. The goal is to determine which models offer the best accuracy, precision, recall, and F1-score, providing insight into their suitability for potential integration into non-invasive, data-driven health screening systems.
 
 ---
 
@@ -95,13 +95,11 @@ We will evaluate models based on:
 | SVM                | 0.990385  | 0.984615  | 1.000000  | 0.992248  |
 | Naive Bayes        | 0.942308  | 0.967742  | 0.937500  | 0.952381  |
 
-### Confusion Matrices
+## Confusion Matrices
+[![Confusion Matrices](documents/plots/confusion_matrices.png)](documents/plots/confusion_matrices.png)
 
-<img src="documents/plots/confusion_matrices.png" width="800"/>
-
-### F1 Score Comparison
-
-<img src="documents/plots/f1_score_comparison.png" width="600"/>
+## F1 Score Comparison
+[![F1 Score Comparison](documents/plots/f1_score_comparison.png)](documents/plots/f1_score_comparison.png)
 
 ### Conclusion
 
