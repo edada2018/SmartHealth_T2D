@@ -83,3 +83,29 @@ We will evaluate models based on:
 - [Download Model Comparison Summary (PDF)](documents/T2D_Model_Comparison_Summary.pdf)
 
 ---
+
+### Evaluation Summary
+
+| Model               | Accuracy  | Precision | Recall    | F1 Score  |
+|--------------------|-----------|-----------|-----------|-----------|
+| Logistic Regression| 0.942308  | 0.983333  | 0.921875  | 0.951613  |
+| Decision Tree      | 0.990385  | 1.000000  | 0.984375  | 0.992126  |
+| Random Forest      | 0.990385  | 1.000000  | 0.984375  | 0.992126  |
+| KNN                | 0.932692  | 0.983051  | 0.906250  | 0.943089  |
+| SVM                | 0.990385  | 0.984615  | 1.000000  | 0.992248  |
+| Naive Bayes        | 0.942308  | 0.967742  | 0.937500  | 0.952381  |
+
+### Confusion Matrices
+
+<img src="documents/plots/confusion_matrices.png" width="800"/>
+
+### F1 Score Comparison
+
+<img src="documents/plots/f1_score_comparison.png" width="600"/>
+
+### Conclusion
+
+- All six models performed very well, with F1 Scores above 0.94.
+- SVM slightly outperformed others, achieving perfect recall and the highest F1 Score.
+- Decision Tree and Random Forest also performed exceptionally with perfect precision.
+- Naive Bayes performed reasonably well but slightly under the top models.
