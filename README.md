@@ -1,19 +1,3 @@
----
-title: "Smart Health T2D Report"
-author: "Elizabeth Dada"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    toc: true
-    toc_depth: 3
-    number_sections: true
-    code_folding: hide
-    df_print: paged
-bibliography: T2D_ML_References_IEEE.bib
-csl: ieee.csl
-link-citations: true
----
-
 # Smart Health: T2D Early-Stage Detection using ML
 
 ## Objective
